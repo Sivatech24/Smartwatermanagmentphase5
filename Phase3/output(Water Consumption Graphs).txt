@@ -1,0 +1,1 @@
+Generated 100 data points and saved to 'water_consumption_data.csv'

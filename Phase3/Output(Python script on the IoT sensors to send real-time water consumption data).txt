@@ -1,0 +1,14 @@
+Connected to MQTT broker with result code 0
+Message 1 published
+Sent: Water consumption - 0.83123456 gallons
+Message 2 published
+Sent: Water consumption - 1.42759023 gallons
+Message 3 published
+Sent: Water consumption - 0.64892134 gallons
+Message 4 published
+Sent: Water consumption - 1.19238753 gallons
+Message 5 published
+Sent: Water consumption - 1.93645987 gallons
+Message 6 published
+Sent: Water consumption - 1.78574912 gallons
+...

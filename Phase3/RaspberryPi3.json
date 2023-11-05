@@ -1,0 +1,21 @@
+{
+  "components": {
+    "raspberryPi": {
+      "type": "RaspberryPi3",
+      "state": {
+        "hostname": "raspberrypi",
+        "password": "yourpassword"
+      },
+      "connections": {
+        "gpio2": "breadboard1/j1"
+      }
+    },
+    "breadboard1": {
+      "type": "Breadboard",
+      "state": {
+        "rows": 5,
+        "columns": 50
+      }
+    }
+  }
+}

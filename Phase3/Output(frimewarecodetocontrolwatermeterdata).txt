@@ -1,0 +1,5 @@
+Flow rate: 1.25 L/min   Total Millilitres: 5750
+Flow rate: 1.20 L/min   Total Millilitres: 5780
+Flow rate: 1.30 L/min   Total Millilitres: 5810
+Flow rate: 1.35 L/min   Total Millilitres: 5840
+Flow rate: 1.28 L/min   Total Millilitres: 5870
