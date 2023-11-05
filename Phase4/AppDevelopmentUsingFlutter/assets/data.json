@@ -1,0 +1,602 @@
+[
+    {
+        "Time": "2023-01-01 00:00:00",
+        "Hourly Consumption": "1.36",
+        "Daily Consumption": "23.67",
+        "Weekly Consumption": "134.07"
+    },
+    {
+        "Time": "2023-01-01 00:30:00",
+        "Hourly Consumption": "7.77",
+        "Daily Consumption": "31.81",
+        "Weekly Consumption": "101.64"
+    },
+    {
+        "Time": "2023-01-01 01:00:00",
+        "Hourly Consumption": "2.22",
+        "Daily Consumption": "16.38",
+        "Weekly Consumption": "66.42"
+    },
+    {
+        "Time": "2023-01-01 01:30:00",
+        "Hourly Consumption": "1.75",
+        "Daily Consumption": "27.06",
+        "Weekly Consumption": "183.25"
+    },
+    {
+        "Time": "2023-01-01 02:00:00",
+        "Hourly Consumption": "9.92",
+        "Daily Consumption": "14.11",
+        "Weekly Consumption": "73.02"
+    },
+    {
+        "Time": "2023-01-01 02:30:00",
+        "Hourly Consumption": "5.62",
+        "Daily Consumption": "30.27",
+        "Weekly Consumption": "68.18"
+    },
+    {
+        "Time": "2023-01-01 03:00:00",
+        "Hourly Consumption": "4.95",
+        "Daily Consumption": "23.56",
+        "Weekly Consumption": "97.56"
+    },
+    {
+        "Time": "2023-01-01 03:30:00",
+        "Hourly Consumption": "6.87",
+        "Daily Consumption": "11.44",
+        "Weekly Consumption": "73.87"
+    },
+    {
+        "Time": "2023-01-01 04:00:00",
+        "Hourly Consumption": "2.74",
+        "Daily Consumption": "24.27",
+        "Weekly Consumption": "89.75"
+    },
+    {
+        "Time": "2023-01-01 04:30:00",
+        "Hourly Consumption": "5.35",
+        "Daily Consumption": "23.25",
+        "Weekly Consumption": "119.89"
+    },
+    {
+        "Time": "2023-01-01 05:00:00",
+        "Hourly Consumption": "6.55",
+        "Daily Consumption": "14.3",
+        "Weekly Consumption": "72.69"
+    },
+    {
+        "Time": "2023-01-01 05:30:00",
+        "Hourly Consumption": "4.94",
+        "Daily Consumption": "40.78",
+        "Weekly Consumption": "52.78"
+    },
+    {
+        "Time": "2023-01-01 06:00:00",
+        "Hourly Consumption": "9.23",
+        "Daily Consumption": "48.48",
+        "Weekly Consumption": "72.14"
+    },
+    {
+        "Time": "2023-01-01 06:30:00",
+        "Hourly Consumption": "8.68",
+        "Daily Consumption": "44.26",
+        "Weekly Consumption": "162.3"
+    },
+    {
+        "Time": "2023-01-01 07:00:00",
+        "Hourly Consumption": "7.06",
+        "Daily Consumption": "24.33",
+        "Weekly Consumption": "166.23"
+    },
+    {
+        "Time": "2023-01-01 07:30:00",
+        "Hourly Consumption": "8.6",
+        "Daily Consumption": "42.08",
+        "Weekly Consumption": "64.38"
+    },
+    {
+        "Time": "2023-01-01 08:00:00",
+        "Hourly Consumption": "6.52",
+        "Daily Consumption": "19.0",
+        "Weekly Consumption": "154.91"
+    },
+    {
+        "Time": "2023-01-01 08:30:00",
+        "Hourly Consumption": "4.35",
+        "Daily Consumption": "18.58",
+        "Weekly Consumption": "126.01"
+    },
+    {
+        "Time": "2023-01-01 09:00:00",
+        "Hourly Consumption": "5.1",
+        "Daily Consumption": "35.88",
+        "Weekly Consumption": "161.51"
+    },
+    {
+        "Time": "2023-01-01 09:30:00",
+        "Hourly Consumption": "6.87",
+        "Daily Consumption": "35.9",
+        "Weekly Consumption": "174.08"
+    },
+    {
+        "Time": "2023-01-01 10:00:00",
+        "Hourly Consumption": "7.44",
+        "Daily Consumption": "15.49",
+        "Weekly Consumption": "145.09"
+    },
+    {
+        "Time": "2023-01-01 10:30:00",
+        "Hourly Consumption": "6.1",
+        "Daily Consumption": "26.98",
+        "Weekly Consumption": "85.43"
+    },
+    {
+        "Time": "2023-01-01 11:00:00",
+        "Hourly Consumption": "7.23",
+        "Daily Consumption": "15.7",
+        "Weekly Consumption": "56.06"
+    },
+    {
+        "Time": "2023-01-01 11:30:00",
+        "Hourly Consumption": "6.36",
+        "Daily Consumption": "44.01",
+        "Weekly Consumption": "98.23"
+    },
+    {
+        "Time": "2023-01-01 12:00:00",
+        "Hourly Consumption": "5.21",
+        "Daily Consumption": "47.22",
+        "Weekly Consumption": "52.93"
+    },
+    {
+        "Time": "2023-01-01 12:30:00",
+        "Hourly Consumption": "8.71",
+        "Daily Consumption": "26.69",
+        "Weekly Consumption": "77.7"
+    },
+    {
+        "Time": "2023-01-01 13:00:00",
+        "Hourly Consumption": "3.16",
+        "Daily Consumption": "45.09",
+        "Weekly Consumption": "176.94"
+    },
+    {
+        "Time": "2023-01-01 13:30:00",
+        "Hourly Consumption": "4.04",
+        "Daily Consumption": "12.05",
+        "Weekly Consumption": "93.75"
+    },
+    {
+        "Time": "2023-01-01 14:00:00",
+        "Hourly Consumption": "3.72",
+        "Daily Consumption": "30.49",
+        "Weekly Consumption": "59.38"
+    },
+    {
+        "Time": "2023-01-01 14:30:00",
+        "Hourly Consumption": "5.49",
+        "Daily Consumption": "43.92",
+        "Weekly Consumption": "122.69"
+    },
+    {
+        "Time": "2023-01-01 15:00:00",
+        "Hourly Consumption": "1.31",
+        "Daily Consumption": "33.07",
+        "Weekly Consumption": "90.01"
+    },
+    {
+        "Time": "2023-01-01 15:30:00",
+        "Hourly Consumption": "3.25",
+        "Daily Consumption": "13.02",
+        "Weekly Consumption": "120.31"
+    },
+    {
+        "Time": "2023-01-01 16:00:00",
+        "Hourly Consumption": "8.71",
+        "Daily Consumption": "42.87",
+        "Weekly Consumption": "119.68"
+    },
+    {
+        "Time": "2023-01-01 16:30:00",
+        "Hourly Consumption": "8.56",
+        "Daily Consumption": "27.14",
+        "Weekly Consumption": "169.46"
+    },
+    {
+        "Time": "2023-01-01 17:00:00",
+        "Hourly Consumption": "5.27",
+        "Daily Consumption": "26.52",
+        "Weekly Consumption": "166.22"
+    },
+    {
+        "Time": "2023-01-01 17:30:00",
+        "Hourly Consumption": "8.53",
+        "Daily Consumption": "20.21",
+        "Weekly Consumption": "195.91"
+    },
+    {
+        "Time": "2023-01-01 18:00:00",
+        "Hourly Consumption": "1.59",
+        "Daily Consumption": "27.1",
+        "Weekly Consumption": "135.75"
+    },
+    {
+        "Time": "2023-01-01 18:30:00",
+        "Hourly Consumption": "9.63",
+        "Daily Consumption": "42.05",
+        "Weekly Consumption": "52.97"
+    },
+    {
+        "Time": "2023-01-01 19:00:00",
+        "Hourly Consumption": "7.89",
+        "Daily Consumption": "39.72",
+        "Weekly Consumption": "180.35"
+    },
+    {
+        "Time": "2023-01-01 19:30:00",
+        "Hourly Consumption": "2.42",
+        "Daily Consumption": "12.24",
+        "Weekly Consumption": "155.73"
+    },
+    {
+        "Time": "2023-01-01 20:00:00",
+        "Hourly Consumption": "4.39",
+        "Daily Consumption": "47.56",
+        "Weekly Consumption": "76.05"
+    },
+    {
+        "Time": "2023-01-01 20:30:00",
+        "Hourly Consumption": "7.65",
+        "Daily Consumption": "48.98",
+        "Weekly Consumption": "97.02"
+    },
+    {
+        "Time": "2023-01-01 21:00:00",
+        "Hourly Consumption": "2.61",
+        "Daily Consumption": "27.01",
+        "Weekly Consumption": "135.34"
+    },
+    {
+        "Time": "2023-01-01 21:30:00",
+        "Hourly Consumption": "9.01",
+        "Daily Consumption": "48.86",
+        "Weekly Consumption": "140.4"
+    },
+    {
+        "Time": "2023-01-01 22:00:00",
+        "Hourly Consumption": "5.42",
+        "Daily Consumption": "11.05",
+        "Weekly Consumption": "90.12"
+    },
+    {
+        "Time": "2023-01-01 22:30:00",
+        "Hourly Consumption": "5.9",
+        "Daily Consumption": "27.82",
+        "Weekly Consumption": "118.0"
+    },
+    {
+        "Time": "2023-01-01 23:00:00",
+        "Hourly Consumption": "5.97",
+        "Daily Consumption": "12.27",
+        "Weekly Consumption": "181.53"
+    },
+    {
+        "Time": "2023-01-01 23:30:00",
+        "Hourly Consumption": "5.13",
+        "Daily Consumption": "21.38",
+        "Weekly Consumption": "61.09"
+    },
+    {
+        "Time": "2023-01-02 00:00:00",
+        "Hourly Consumption": "1.89",
+        "Daily Consumption": "11.41",
+        "Weekly Consumption": "74.74"
+    },
+    {
+        "Time": "2023-01-02 00:30:00",
+        "Hourly Consumption": "1.47",
+        "Daily Consumption": "26.06",
+        "Weekly Consumption": "157.2"
+    },
+    {
+        "Time": "2023-01-02 01:00:00",
+        "Hourly Consumption": "2.1",
+        "Daily Consumption": "23.82",
+        "Weekly Consumption": "55.58"
+    },
+    {
+        "Time": "2023-01-02 01:30:00",
+        "Hourly Consumption": "6.97",
+        "Daily Consumption": "13.26",
+        "Weekly Consumption": "112.14"
+    },
+    {
+        "Time": "2023-01-02 02:00:00",
+        "Hourly Consumption": "8.72",
+        "Daily Consumption": "29.37",
+        "Weekly Consumption": "160.3"
+    },
+    {
+        "Time": "2023-01-02 02:30:00",
+        "Hourly Consumption": "9.46",
+        "Daily Consumption": "26.74",
+        "Weekly Consumption": "65.61"
+    },
+    {
+        "Time": "2023-01-02 03:00:00",
+        "Hourly Consumption": "5.21",
+        "Daily Consumption": "49.77",
+        "Weekly Consumption": "125.67"
+    },
+    {
+        "Time": "2023-01-02 03:30:00",
+        "Hourly Consumption": "6.39",
+        "Daily Consumption": "15.81",
+        "Weekly Consumption": "117.16"
+    },
+    {
+        "Time": "2023-01-02 04:00:00",
+        "Hourly Consumption": "7.77",
+        "Daily Consumption": "47.05",
+        "Weekly Consumption": "139.66"
+    },
+    {
+        "Time": "2023-01-02 04:30:00",
+        "Hourly Consumption": "5.46",
+        "Daily Consumption": "42.34",
+        "Weekly Consumption": "65.56"
+    },
+    {
+        "Time": "2023-01-02 05:00:00",
+        "Hourly Consumption": "1.47",
+        "Daily Consumption": "43.63",
+        "Weekly Consumption": "165.74"
+    },
+    {
+        "Time": "2023-01-02 05:30:00",
+        "Hourly Consumption": "3.42",
+        "Daily Consumption": "26.04",
+        "Weekly Consumption": "84.22"
+    },
+    {
+        "Time": "2023-01-02 06:00:00",
+        "Hourly Consumption": "6.33",
+        "Daily Consumption": "44.74",
+        "Weekly Consumption": "71.35"
+    },
+    {
+        "Time": "2023-01-02 06:30:00",
+        "Hourly Consumption": "1.44",
+        "Daily Consumption": "43.79",
+        "Weekly Consumption": "79.84"
+    },
+    {
+        "Time": "2023-01-02 07:00:00",
+        "Hourly Consumption": "3.74",
+        "Daily Consumption": "25.4",
+        "Weekly Consumption": "128.54"
+    },
+    {
+        "Time": "2023-01-02 07:30:00",
+        "Hourly Consumption": "8.45",
+        "Daily Consumption": "15.87",
+        "Weekly Consumption": "65.94"
+    },
+    {
+        "Time": "2023-01-02 08:00:00",
+        "Hourly Consumption": "7.61",
+        "Daily Consumption": "31.34",
+        "Weekly Consumption": "118.07"
+    },
+    {
+        "Time": "2023-01-02 08:30:00",
+        "Hourly Consumption": "5.41",
+        "Daily Consumption": "11.64",
+        "Weekly Consumption": "83.86"
+    },
+    {
+        "Time": "2023-01-02 09:00:00",
+        "Hourly Consumption": "1.85",
+        "Daily Consumption": "13.24",
+        "Weekly Consumption": "101.2"
+    },
+    {
+        "Time": "2023-01-02 09:30:00",
+        "Hourly Consumption": "2.19",
+        "Daily Consumption": "10.86",
+        "Weekly Consumption": "86.66"
+    },
+    {
+        "Time": "2023-01-02 10:00:00",
+        "Hourly Consumption": "4.17",
+        "Daily Consumption": "43.98",
+        "Weekly Consumption": "182.49"
+    },
+    {
+        "Time": "2023-01-02 10:30:00",
+        "Hourly Consumption": "3.14",
+        "Daily Consumption": "11.4",
+        "Weekly Consumption": "101.89"
+    },
+    {
+        "Time": "2023-01-02 11:00:00",
+        "Hourly Consumption": "7.49",
+        "Daily Consumption": "34.47",
+        "Weekly Consumption": "123.79"
+    },
+    {
+        "Time": "2023-01-02 11:30:00",
+        "Hourly Consumption": "3.65",
+        "Daily Consumption": "25.31",
+        "Weekly Consumption": "197.05"
+    },
+    {
+        "Time": "2023-01-02 12:00:00",
+        "Hourly Consumption": "6.19",
+        "Daily Consumption": "41.63",
+        "Weekly Consumption": "111.57"
+    },
+    {
+        "Time": "2023-01-02 12:30:00",
+        "Hourly Consumption": "9.3",
+        "Daily Consumption": "19.08",
+        "Weekly Consumption": "187.71"
+    },
+    {
+        "Time": "2023-01-02 13:00:00",
+        "Hourly Consumption": "4.36",
+        "Daily Consumption": "46.27",
+        "Weekly Consumption": "54.89"
+    },
+    {
+        "Time": "2023-01-02 13:30:00",
+        "Hourly Consumption": "2.7",
+        "Daily Consumption": "13.66",
+        "Weekly Consumption": "98.45"
+    },
+    {
+        "Time": "2023-01-02 14:00:00",
+        "Hourly Consumption": "1.33",
+        "Daily Consumption": "35.85",
+        "Weekly Consumption": "58.29"
+    },
+    {
+        "Time": "2023-01-02 14:30:00",
+        "Hourly Consumption": "5.13",
+        "Daily Consumption": "45.73",
+        "Weekly Consumption": "65.47"
+    },
+    {
+        "Time": "2023-01-02 15:00:00",
+        "Hourly Consumption": "3.67",
+        "Daily Consumption": "16.15",
+        "Weekly Consumption": "88.35"
+    },
+    {
+        "Time": "2023-01-02 15:30:00",
+        "Hourly Consumption": "5.52",
+        "Daily Consumption": "26.01",
+        "Weekly Consumption": "166.68"
+    },
+    {
+        "Time": "2023-01-02 16:00:00",
+        "Hourly Consumption": "6.13",
+        "Daily Consumption": "47.38",
+        "Weekly Consumption": "149.82"
+    },
+    {
+        "Time": "2023-01-02 16:30:00",
+        "Hourly Consumption": "4.6",
+        "Daily Consumption": "15.74",
+        "Weekly Consumption": "131.28"
+    },
+    {
+        "Time": "2023-01-02 17:00:00",
+        "Hourly Consumption": "5.21",
+        "Daily Consumption": "39.01",
+        "Weekly Consumption": "51.24"
+    },
+    {
+        "Time": "2023-01-02 17:30:00",
+        "Hourly Consumption": "6.09",
+        "Daily Consumption": "13.77",
+        "Weekly Consumption": "115.08"
+    },
+    {
+        "Time": "2023-01-02 18:00:00",
+        "Hourly Consumption": "8.31",
+        "Daily Consumption": "18.8",
+        "Weekly Consumption": "135.42"
+    },
+    {
+        "Time": "2023-01-02 18:30:00",
+        "Hourly Consumption": "2.29",
+        "Daily Consumption": "48.97",
+        "Weekly Consumption": "169.54"
+    },
+    {
+        "Time": "2023-01-02 19:00:00",
+        "Hourly Consumption": "6.29",
+        "Daily Consumption": "15.22",
+        "Weekly Consumption": "169.85"
+    },
+    {
+        "Time": "2023-01-02 19:30:00",
+        "Hourly Consumption": "2.79",
+        "Daily Consumption": "43.83",
+        "Weekly Consumption": "134.52"
+    },
+    {
+        "Time": "2023-01-02 20:00:00",
+        "Hourly Consumption": "2.94",
+        "Daily Consumption": "29.81",
+        "Weekly Consumption": "104.21"
+    },
+    {
+        "Time": "2023-01-02 20:30:00",
+        "Hourly Consumption": "3.09",
+        "Daily Consumption": "37.13",
+        "Weekly Consumption": "143.12"
+    },
+    {
+        "Time": "2023-01-02 21:00:00",
+        "Hourly Consumption": "5.71",
+        "Daily Consumption": "40.45",
+        "Weekly Consumption": "113.15"
+    },
+    {
+        "Time": "2023-01-02 21:30:00",
+        "Hourly Consumption": "7.67",
+        "Daily Consumption": "28.92",
+        "Weekly Consumption": "145.29"
+    },
+    {
+        "Time": "2023-01-02 22:00:00",
+        "Hourly Consumption": "2.03",
+        "Daily Consumption": "19.89",
+        "Weekly Consumption": "109.98"
+    },
+    {
+        "Time": "2023-01-02 22:30:00",
+        "Hourly Consumption": "7.76",
+        "Daily Consumption": "42.59",
+        "Weekly Consumption": "146.83"
+    },
+    {
+        "Time": "2023-01-02 23:00:00",
+        "Hourly Consumption": "9.28",
+        "Daily Consumption": "23.99",
+        "Weekly Consumption": "95.02"
+    },
+    {
+        "Time": "2023-01-02 23:30:00",
+        "Hourly Consumption": "9.35",
+        "Daily Consumption": "12.72",
+        "Weekly Consumption": "143.09"
+    },
+    {
+        "Time": "2023-01-03 00:00:00",
+        "Hourly Consumption": "3.55",
+        "Daily Consumption": "24.29",
+        "Weekly Consumption": "166.4"
+    },
+    {
+        "Time": "2023-01-03 00:30:00",
+        "Hourly Consumption": "5.7",
+        "Daily Consumption": "27.7",
+        "Weekly Consumption": "172.02"
+    },
+    {
+        "Time": "2023-01-03 01:00:00",
+        "Hourly Consumption": "3.73",
+        "Daily Consumption": "13.65",
+        "Weekly Consumption": "125.71"
+    },
+    {
+        "Time": "2023-01-03 01:30:00",
+        "Hourly Consumption": "1.01",
+        "Daily Consumption": "16.17",
+        "Weekly Consumption": "62.79"
+    }
+]
